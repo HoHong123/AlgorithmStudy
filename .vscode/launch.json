@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "d:/Study/AlgorithmStudy/KiHong/week8",
-      "program": "d:/Study/AlgorithmStudy/KiHong/week8/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/mnt/c/Users/SBA/Documents/AlgorithmStudy/KiHong/week10",
+      "program": "/mnt/c/Users/SBA/Documents/AlgorithmStudy/KiHong/week10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

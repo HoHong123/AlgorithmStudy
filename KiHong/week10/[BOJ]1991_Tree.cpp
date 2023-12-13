@@ -77,6 +77,9 @@ void postorder_tree(TreeNode* tree);
 
 int main()
 {
+    ios::sync_with_stdio(0);
+    cin.tie(nullptr); cout.tie(nullptr);
+
     int N;
     cin >> N;
     
