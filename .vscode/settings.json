@@ -10,7 +10,12 @@
     "unordered_map": "cpp",
     "list": "cpp",
     "random": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "array": "cpp",
+    "string_view": "cpp",
+    "utility": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.cCompilerPath": "gcc",
